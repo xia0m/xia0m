@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zemin Ma
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning Nest.js/Typescript/Next.js/Tailwind
-- 💞️ I’m looking to collaborate on React in general
+- 💞️ I’m looking to collaborate on React/Django/Nodejs in general
 - 📫 How to reach me alexma325@gmail.com
 
 <!---
